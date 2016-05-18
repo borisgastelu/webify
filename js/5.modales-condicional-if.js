@@ -9,6 +9,7 @@ if (valor === 10) {
     alert("Valor ingresado: " + valor);
 }
 
+// Comentario nuevo
 
 // Falsy (representan valores falsos)
 // 0, '', "", false, undefined, null, NaN
