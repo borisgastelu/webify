@@ -28,3 +28,6 @@ A experimental source code for learning purposes.
     Nota:
         - origin -> repositorio en la nube  
         - master -> repositorio en mi disco duro
+
+## Participantes
+    - Boris
