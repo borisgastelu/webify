@@ -31,8 +31,5 @@ A experimental source code for learning purposes.
 
 ## Participantes (25/05/2015)
     - Boris
-<<<<<<< HEAD
     - Rodner
-=======
     - Freddy
->>>>>>> 8d4c6028ec7b04987ab2e6b126de7b0193aed70f
