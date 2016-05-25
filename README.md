@@ -29,5 +29,5 @@ A experimental source code for learning purposes.
         - origin -> repositorio en la nube  
         - master -> repositorio en mi disco duro
 
-## Participantes
+## Participantes (25/05/2015)
     - Boris
