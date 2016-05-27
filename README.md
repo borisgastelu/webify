@@ -34,3 +34,6 @@ A experimental source code for learning purposes.
     - Rodner
     - Freddy
 	- Anaflavia
+
+## Glosario
+    - WIP: Work In Progress
