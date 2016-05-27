@@ -9,7 +9,6 @@ A experimental source code for learning purposes.
 3. Clonar
     `git clone <ruta_repositorio>`
 
-
 ## Actualizar codigo en repositorio
 1. Colocar como marcados los archivos del proyecto
     `git add .`
