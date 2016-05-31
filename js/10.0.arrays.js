@@ -20,4 +20,4 @@ var string = 'Hola';
 var boolean = true;
 
 var tiposDatos = [number, string, boolean];
-// console.log(tiposDatos);
+console.log(tiposDatos);
