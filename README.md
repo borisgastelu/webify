@@ -34,5 +34,8 @@ A experimental source code for learning purposes.
     - Freddy
 	- Anaflavia
 
+## Participantes (31/05/2015)
+    - Boris
+
 ## Glosario
     - WIP: Work In Progress
