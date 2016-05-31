@@ -4,7 +4,7 @@ cant = parseInt(cant);
 //  Inicializador ; Condicion ; Incrementador
 console.log('ASCENDENTE');
 for (var i = 0;    i < cant;   i++) {
-    console.log('Iteración #' + (i + 1));
+    console.log('Iteración #' + (i + 1));   // Cuerpo del iterador
 }
 
 console.log('DESCENDENTE');
